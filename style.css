@@ -1,0 +1,117 @@
+body {
+    background-color: #E5E5E5;
+    margin: 0px;
+
+}
+
+.imagen {
+    background: #E6E6E6;
+    height: 188.1888427734375px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+} 
+
+.imagen img:hover {
+    transform: scale(1.5);
+    
+}
+
+
+section {
+    background-color: white;
+    width: 100%;
+    height: 618px;
+}
+.cv {
+    background: #C4C4C4;
+    height: 60px;
+    width: 100%;
+    left: 213px;
+    top: 180px;
+    font-family: Times New Roman;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 164%;
+    letter-spacing: 0.3em;
+    text-align: center;
+    color: #005677;
+    position:sticky;
+}
+
+
+h2 {
+    display: flex;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 212%;
+    letter-spacing: 0.3em;
+    color: #005677;
+    position: relative;
+}
+
+
+.datos {
+    background: #C4C4C4;
+    height: 40px;
+    width: 100%;
+}
+
+.formacion {
+    background: #C4C4C4;
+    height: 40px;
+    width: 100%;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 212%;
+    letter-spacing: 0.3em;
+    color: #005677;
+    position: relative;
+}
+
+
+.experiencia {
+    background: #C4C4C4;
+    height: 40px;
+    width: 100%;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 212%;
+    letter-spacing: 0.3em;
+    color: #005677;
+    
+}
+footer {
+    background: #005677;
+    width: 100%;
+    height: 50px;
+    margin-top: -19px;
+    align-items: center;
+    
+}
+
+footer p {
+    display: flex;
+    font-family: Times New Roman;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    margin-left: 601px;
+}
+footer p img {
+    
+    margin: 14px;
+    width: 20px;
+    height: 20px;
+    
+
+}
